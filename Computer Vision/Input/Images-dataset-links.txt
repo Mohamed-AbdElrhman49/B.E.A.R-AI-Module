@@ -1,0 +1,8 @@
+RSNA Bone Age+Anatomical ROIS:
+https://www.kaggle.com/datasets/ipythonx/rsna-bone-age
+
+RSNA Bone Age:
+https://www.kaggle.com/datasets/kmader/rsna-bone-age
+
+RHPE Bone Age+Anatomical ROIS:
+https://www.kaggle.com/datasets/ipythonx/rhpe-bone-age
