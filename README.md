@@ -51,7 +51,7 @@ Images are hand X-rays of children with labeled ages and genders.
 
 ### 1. Clone the repo
 ```bash
-git clone https://github.com/your-username/B.E.A.R..git
+git clone https://github.com/your-username/B.E.A.R..git](https://github.com/Mohamed-AbdElrhman49/B.E.A.R-AI-Module.git
 cd B.E.A.R.
 ```
 
